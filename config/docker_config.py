@@ -1,1 +1,1 @@
-Mode = "server"
+Mode = "consumer"
